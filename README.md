@@ -11,18 +11,19 @@ Kitchen accidents such as gas leaks, fire, and overheating often go undetected u
 # System Components 
 Hardware:  
 
--Arduino Uno
--ESP32-CAM
--MQ-2 Gas Sensor
--DHT11 Temperature & Humidity Sensor
--Flame Sensor
--PIR Motion Sensor
--8-Channel Voice Playback Module
--LCD
--Power Supply Module
+-Arduino Uno  
+-ESP32-CAM  
+-MQ-2 Gas Sensor  
+-DHT11 Temperature & Humidity Sensor  
+-Flame Sensor  
+-PIR Motion Sensor  
+-8-Channel Voice Playback Module  
+-LCD  
+-Power Supply Module  
 
-Software:
+Software:  
 
--Arduino IDE
--Embedded C/C++
--Teachable Machine (for ML training)
+-Arduino IDE  
+-Embedded C/C++  
+-Teachable Machine (for ML training)  
+
